@@ -1,0 +1,10 @@
+
+name: labour_app
+description: Labour rights assistant
+version: 1.0.0
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  http: any
